@@ -7,7 +7,7 @@ let highscore = 0;
 let gameWon = false;
 let modeColour = [ 122, 122, 122 ];
 
-const version = "BETA v 1.2"
+const version = "v 1.0"
 
 function makeGrid(columns, rows) {
 	let grid = new Array(columns);
